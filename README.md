@@ -1,10 +1,10 @@
 # Hi there, I'm Sai Rohith 👋
 
-A passionate **Computer Engineering Student** with a strong focus on **Web Development, Machine Learning, and AI**. I enjoy building software, exploring AI tools, and tackling complex problems through code.
+A passionate **Computer Engineering Student** with a strong focus on **Web Development, Machine Learning, and AI**. I enjoy building software, leveraging AI tools, and rapidly deploying web applications.
 
 ---
 
-### 💻 Languages & Frameworks
+### 💻 Languages & Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -16,15 +16,15 @@ A passionate **Computer Engineering Student** with a strong focus on **Web Devel
 
 ---
 
-### 🛠️ Skills & Knowledge
+### 🛠️ Core Skills
 
-* **AI & Machine Learning:** ML Modeling, Data Analysis, Prompt Engineering & AI Tools
-* **Web Development:** Frontend Design, Responsive Web Development
-* **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
+* **Web Development & Deployment:** Building and deploying responsive websites easily
+* **AI & Machine Learning:** ML Modeling, AI Tools & Vibe Coding / Rapid Prototyping
+* **Core Engineering:** Data Structures & Algorithms, Object-Oriented Programming
 
 ---
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28">](https://www.linkedin.com/in/kambam-sai-rohith-36259321a)
+[<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28">](mailto:kambamsairohith22@gmail.com)
