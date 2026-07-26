@@ -86,6 +86,19 @@ I am a Computer Engineering student specializing in **Artificial Intelligence** 
 
 ---
 
+## 💼 Featured Projects
+
+### ✈️ International Corporate Aviation Platform
+**Role:** Lead Full-Stack Web Developer | **Client:** CIS Aviation Consultancy (*Kazakhstan*)
+
+Designed, engineered, and deployed an end-to-end web platform for an international aviation consultancy based in Kazakhstan. Architected a responsive visual layout and secure backend services to showcase consultancy offerings, regulatory compliance, and client contact pipelines.
+
+* **Full-Lifecycle Engineering:** Built the entire platform architecture from front-end user experience to back-end service integration and production deployment.
+* **Responsive & Accessible UI:** Designed clean, cross-browser responsive interfaces tailored for international clients across desktop and mobile platforms.
+* **Production Operations:** Managed infrastructure configuration, domain routing, and DNS setup for reliable global platform availability.
+
+---
+
 ## 🎯 Current Goals & Learning Roadmap
 
 Here is what I am actively focusing on to sharpen my development and engineering skills:
