@@ -1,8 +1,13 @@
 <div align="center">
 
-# 🌟 **KAMBAM SAI ROHITH** 🌟
+# 👋 **Welcome to my Profile!**
 
-### **Full-Stack Web Development • Machine Learning • DSA**
+<p align="center">
+  <a href="https://github.com/kambamsairohith22-dev">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=160&section=header&text=KAMBAM%20SAI%20ROHITH&fontSize=38&fontColor=38bdf8&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20DSA&descSize=15&descAlignY=65&descColor=f1f5f9&stroke=38bdf8&strokeWidth=1" width="80%" alt="Kambam Sai Rohith Header Card" />
+  </a>
+</p>
+
 *Computer Engineering (AI) Student @ Marwadi University, Rajkot*
 
 ---
@@ -35,102 +40,44 @@ I am a Computer Engineering student specializing in **Artificial Intelligence** 
 
 <div align="center">
 
-### 💻 Programming Languages
-
 <table align="center" border="0">
+  <!-- Languages -->
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-      <br />
-      <strong>Python</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br />
-      <strong>Java</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br />
-      <strong>C</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-      <br />
-      <strong>C++</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br />
-      <strong>JavaScript</strong>
+    <td align="center" width="140"><strong>Programming Languages</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js" alt="Languages" />
+      <br /><br />
+      <code>Python</code> • <code>Java</code> • <code>C</code> • <code>C++</code> • <code>JavaScript</code>
     </td>
   </tr>
-</table>
-
-<br />
-
-### 🤖 Machine Learning & Data Science
-
-<table align="center" border="0">
+  <!-- Machine Learning & Data Science -->
   <tr>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <br />
-      <strong>NumPy</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br />
-      <strong>Pandas</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="scikit-learn" />
-      <br />
-      <strong>scikit-learn</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
-      <br />
-      <strong>Matplotlib</strong>
+    <td align="center" width="140"><strong>Machine Learning & AI</strong></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" /> &nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn" /> &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+      <br /><br />
+      <code>NumPy</code> • <code>Pandas</code> • <code>scikit-learn</code> • <code>Matplotlib</code>
     </td>
   </tr>
-</table>
-
-<br />
-
-### 🌐 Web Development, Databases & Cloud
-
-<table align="center" border="0">
+  <!-- Web Development & Databases -->
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br />
-      <strong>React</strong>
+    <td align="center" width="140"><strong>Web Dev & Databases</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nodejs,postgres" alt="Web Dev & DB" />
+      <br /><br />
+      <code>React</code> • <code>Node.js</code> • <code>PostgreSQL</code>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br />
-      <strong>Node.js</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br />
-      <strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br />
-      <strong>Linux</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br />
-      <strong>Git</strong>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-      <br />
-      <strong>Vercel</strong>
+  </tr>
+  <!-- Dev Tools & Environment -->
+  <tr>
+    <td align="center" width="140"><strong>Tools & Platform</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=linux,git,vercel" alt="Tools" />
+      <br /><br />
+      <code>Linux</code> • <code>Git</code> • <code>Vercel</code>
     </td>
   </tr>
 </table>
@@ -139,25 +86,23 @@ I am a Computer Engineering student specializing in **Artificial Intelligence** 
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Current Goals & Learning Roadmap
 
-<details>
-<summary><strong>🌱 Crop Health Prediction (ML Model)</strong></summary>
-<br />
+Here is what I am actively focusing on to sharpen my development and engineering skills:
 
-* **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy, Seaborn, Joblib
-* **Overview:** A machine learning project that predicts crop health risks using soil and climate data.
-* **Key Highlights:** Cleaned dataset outliers, split data for testing, compared Random Forest and Decision Tree models, and saved the final trained model using `joblib`.
-</details>
+- **🌐 Web Development (Udemy):** Actively taking comprehensive web development coursework on Udemy to master modern full-stack practices, backend integration, and responsive frontend UI.
+- **⚡ DSA & Problem Solving (LeetCode):** Solving Data Structures & Algorithms problems daily on LeetCode to improve optimization, algorithmic thinking, and coding speed.
+- **🤖 Machine Learning Fundamentals:** Building and fine-tuning predictive ML models, experimenting with data processing techniques, and exploring core ML algorithms.
 
-<details>
-<summary><strong>📚 Personal Library System (Python CLI Tool)</strong></summary>
-<br />
+---
 
-* **Tech Stack:** Python (Core Systems & File I/O)
-* **Overview:** A simple, menu-driven terminal app to add, search, and manage personal book collections.
-* **Key Highlights:** Used Python functions (`map`, `filter`), stored data permanently in JSON files, and handled errors cleanly.
-</details>
+## 🚧 Projects in Progress
+
+Here are the major capstone projects I am actively building as part of my Full-Stack Web Development training:
+
+- **🔐 Keeper App (React Frontend & State Management):** A modern note-taking single-page application built with React.js, utilizing state management, dynamic components, and material UI design principles.
+- **📰 Secrets App (User Auth & Security):** A secure web application featuring OAuth 2.0 (Google Login), bcrypt password hashing, and session management using Node.js, Express, and PostgreSQL.
+- **📚 Book Notes & Review Platform (REST API & DB):** A persistent web app using Node.js, Express, and PostgreSQL to store, filter, and display book reviews with integration to external cover APIs.
 
 ---
 
@@ -169,25 +114,9 @@ I am a Computer Engineering student specializing in **Artificial Intelligence** 
 
 <br /><br />
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="320">
-      <br />
-      <a href="https://leetcode.com/u/kambamsairohith/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" width="56" height="56" alt="LeetCode" />
-      </a>
-      <br /><br />
-      <strong>LeetCode Profile</strong>
-      <br />
-      <small>Data Structures & Algorithms Problem Solving</small>
-      <br /><br />
-      <a href="https://leetcode.com/u/kambamsairohith/" target="_blank">
-        <img src="https://img.shields.io/badge/View_LeetCode_Profile-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="View LeetCode Profile" />
-      </a>
-      <br /><br />
-    </td>
-  </tr>
-</table>
+<a href="https://leetcode.com/u/kambamsairohith/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-181717?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Profile" />
+</a>
 
 <br /><br />
 
